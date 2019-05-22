@@ -1,0 +1,12 @@
+name: PredictWord
+title: PredictWord
+username:
+account: starluxe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 942805
+bundleId: 2101362
+url: https://starluxe.shinyapps.io/PredictWord/
+when: 1558528373.72885
+asMultiple: FALSE
+asStatic: FALSE
